@@ -43,24 +43,35 @@
 // Console.WriteLine(x / y);
 // Console.WriteLine(x % y);
 
-string firstName = "Ярослав";
-string lastName = "Бухарев";
-string group = "ИСП-242";
-int birthYear = 2008;
-double gpa = 4.5;
-bool hasScholarship = false;
+// string firstName = "Ярослав";
+// string lastName = "Бухарев";
+// string group = "ИСП-242";
+// int birthYear = 2008;
+// double gpa = 4.5;
+// bool hasScholarship = false;
 
-int currentYear = 2026;
-int age = currentYear - birthYear;
+// int currentYear = 2026;
+// int age = currentYear - birthYear;
 
-Console.WriteLine("Студенческое удостоверение");
-Console.WriteLine($"Имя: {firstName} {lastName}");
-Console.WriteLine($"Группа: {group}");
-Console.WriteLine($"Возраст: {group}");
-Console.WriteLine($"Средний балл: {age}");
-Console.WriteLine($"Стипендия: {hasScholarship}");
+// Console.WriteLine("Студенческое удостоверение");
+// Console.WriteLine($"Имя: {firstName} {lastName}");
+// Console.WriteLine($"Группа: {group}");
+// Console.WriteLine($"Возраст: {group}");
+// Console.WriteLine($"Средний балл: {age}");
+// Console.WriteLine($"Стипендия: {hasScholarship}");
 
-Console.WriteLine("\nВведите ваш любимый предмет: ");
-string subject = Console.ReadLine();
-Console.WriteLine($"Отлично! {firstName} любит {subject}");
+// Console.WriteLine("\nВведите ваш любимый предмет: ");
+// string subject = Console.ReadLine();
+// Console.WriteLine($"Отлично! {firstName} любит {subject}");
 
+// int a = 15;
+// int b = 4;
+// Console.WriteLine($"Сумма: {a + b}");
+// Console.WriteLine($"Разность: {a - b}");
+// Console.WriteLine($"произведение: {a * b}");
+// Console.WriteLine($"Частное (int): {a / b}");
+// Console.WriteLine($"Остаток: {a % b}");
+
+
+
+//  code
